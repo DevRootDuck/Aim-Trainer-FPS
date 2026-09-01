@@ -1,4 +1,4 @@
-# Aim Trainer FPS — v3 (reconstrução completa)
+# Aim Trainer FPS
 
 Projeto **100% original**: personagens (Adão e Eva), arma (AX-9), mapa,
 sons, HUD e mira são todos gerados **proceduralmente por código**
